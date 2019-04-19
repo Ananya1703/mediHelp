@@ -165,7 +165,7 @@ banner
 	text-transform: uppercase;
 	padding-bottom:15px;
 }
-.btn-appoint, .btn-appoint:hover, .btn-appoint:focus{
+.btn-appoint, .btn-appoint:focus{
 	margin-top: 30px;
 	padding: 10px 20px;
 	font-size: 24px;
@@ -173,6 +173,17 @@ banner
 	border-radius: 3px;
 	color: #fff;
 }
+.bannerHead{
+    line-height: 40px;
+    padding: 60px;
+}
+/*.btn-appoint:hover{
+    padding: 10px 20px;
+    font-size: 30px;
+    background-color: rgba(109,1,58,0.50);
+    border-radius: 3px;
+    color: #fff;
+}*/
 .overlay-detail a i {
     text-align: center;
     position: absolute;
